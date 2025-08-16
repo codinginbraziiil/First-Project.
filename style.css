@@ -1,0 +1,38 @@
+.dimensions { 
+    margin  : 40px;
+    padding: 20px;
+    width: 75vh;
+    border: 20px solid black;
+
+}
+
+
+
+.texto1 {
+    font-size: 21px;
+    background-color: #F5F5F5;
+}
+
+.texto2 {
+    font-size: 21px;
+    background-color: #F0CCE2;
+   
+}
+
+.texto2 span {
+    background-color: orange;
+}
+
+.texto1 span {
+    color: red;
+    font-weight: bold;
+}
+
+div {
+    margin: 40px;
+    width: 535px;
+    border: 20px solid black;
+    
+}
+
+
